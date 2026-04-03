@@ -1,0 +1,172 @@
+[
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "Jak grać proaktywnie",
+    "slug": "jak_grac_proaktynie",
+    "author": [
+      "marcin"
+    ],
+    "body": "II. ANALIZA FAZ PARTII – KONKRETNE PROBLEMY\r\n1. DEBIUT – „poprawnie, ale bez ambicji”\r\nCo robisz dobrze\r\n•\tBrak grubych błędów debiutowych\r\n•\tPoprawny rozwój figur\r\n•\tUnikasz pułapek i chaosu\r\nCo robisz źle (krytyczne)\r\n❌ Brak presji od debiutu\r\n❌ Zbyt częste wybieranie bezpiecznych, równych struktur\r\n❌ Oddawanie inicjatywy silniejszym rywalom\r\nTypowy schemat z partii\r\n•\tPo 10–12 ruchach pozycja ≈ 0.00\r\n•\tPrzeciwnik 2300+ wie dokładnie, jaki plan grać\r\n•\tTy grasz „ruchy logiczne”, ale nie narzucasz problemów\r\n📌 GM NIE gra „poprawnie” – GM gra „niewygodnie”\r\nJak to poprawić (konkret)\r\n1.\tZawęź repertuar do 1–2 ostrych struktur\r\n•\tbiałymi: jedna główna linia (np. struktura izolowana / Maróczy / IQP)\r\n•\tczarnymi: jedna obrona, ale dogłębnie\r\n2.\tDo KAŻDEJ pozycji debiutowej:\r\n•\tzapisz 3 typowe plany\r\n•\tzapisz 2 typowe ofiary / motywy taktyczne\r\n👉 Bez tego zawsze będziesz „poprawny, ale słabszy”.\r\n________________________________________\r\n2. ŚRODKOWA GRA – GŁÓWNY POWÓD STAGNACJI\r\nTo jest sedno problemu.\r\nNajczęstszy błąd w partiach Marcina\r\nBrak decyzji w momencie, gdy pozycja tego wymaga\r\nWidać to setki razy:\r\n•\tpozycja wymaga:\r\n•\tprzełomu pionowego TERAZ\r\n•\tofiary jakości TERAZ\r\n•\taktywizacji króla TERAZ\r\n➡️ a Ty grasz ruch „porządkujący”.\r\nTypowe objawy\r\n❌ Odkładanie krytycznych decyzji\r\n❌ Granie „jeszcze jednego przygotowawczego ruchu”\r\n❌ Pozwalanie przeciwnikowi przejąć inicjatywę\r\nTo NIE są błędy taktyczne.\r\nTo są błędy ODWAGI DECYZYJNEJ.\r\n________________________________________\r\nBardzo ważne:\r\nGracze 2400+ nie widzą więcej ruchów\r\noni szybciej rozpoznają moment, w którym trzeba zaryzykować",
+    "publish": "2026-01-10T18:15:30Z",
+    "created": "2026-01-10T18:22:11.204Z",
+    "updated": "2026-01-17T18:42:21.451Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "jak pokonać stagnację",
+    "slug": "jak-pokonac-stagnacje",
+    "author": [
+      "marcin"
+    ],
+    "body": "Marcin nie jest graczem słabym ani chaotycznym.\r\nTo solidny, klasyczny zawodnik turniejowy, z dobrą kulturą pozycyjną.\r\nProblem polega na tym, że:\r\njego sposób podejmowania decyzji jest typowy dla poziomu 2100–2200, a NIE dla 2400+\r\nI to widać konsekwentnie w setkach partii.",
+    "publish": "2026-01-10T18:37:24Z",
+    "created": "2026-01-10T18:42:25.672Z",
+    "updated": "2026-01-10T18:42:25.672Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "plan treningowy",
+    "slug": "plan-treningowy",
+    "author": [
+      "marcin"
+    ],
+    "body": "Jak to poprawić (konkret)\r\nĆwiczenie kluczowe (GM-level)\r\nPo każdej swojej partii:\r\n1.\tZnajdź moment, gdzie:\r\n•\tpozycja była równa\r\n•\tpo 5–10 ruchach była gorsza\r\n2.\tZadaj pytanie:\r\n„Jaki plan OFENSYWNY zignorowałem?”\r\n3.\tZapisać:\r\n•\truch aktywny\r\n•\tdlaczego go nie zagrałeś (strach? brak kalkulacji?)\r\n➡️ Po 50 partiach zobaczysz powtarzalny schemat psychologiczny.\r\n________________________________________\r\n3. TAKTYKA – NIE „BLUNDERS”, ALE…\r\nTo ważne:\r\n❗ Nie przegrywasz przez proste blunders\r\nAle:\r\n❌ przegrywasz przez brak taktycznej czujności w dobrych pozycjach\r\nTypowe sytuacje\r\n•\tmasz przewagę przestrzeni → nie liczysz kontruderzeń\r\n•\tmasz lepszą strukturę → lekceważysz aktywność figur\r\n•\tgrasz „na pozycję”, gdy trzeba liczyć konkret\r\n📌 GM nie wybiera: pozycja czy taktyka\r\nGM łączy jedno z drugim\r\n________________________________________\r\nJak to poprawić\r\nNie rób „zadań losowych”.\r\nRób:\r\n•\ttaktykę z własnych partii\r\n•\ttaktykę z pozycji spokojnych\r\n•\tćwiczenia typu: „znajdź najlepszy ruch, nie mata”\r\n________________________________________\r\n4. KOŃCÓWKI – DUŻA STRATA ELO\r\nTo jest drugi największy problem.\r\nCo widać w partiach\r\n❌ Niedostateczna aktywność króla\r\n❌ Zbyt późne przejście do końcówki\r\n❌ Brak techniki w wieżówkach\r\nWielokrotnie:\r\n•\tpozycje +0.5 / +1.0 kończą się remisem\r\n•\talbo przeciwnik „wyciska” Cię technicznie\r\n________________________________________\r\nJak to poprawić (konkret, nie książkowo)\r\n1.\tTylko końcówki praktyczne\r\n•\tKRp vs KRp\r\n•\twieża + 3 piony vs wieża + 3 piony\r\n•\tróżnobarwne gońce\r\n2.\tGraj je:\r\n•\tz zegarem\r\n•\tz gorszej strony\r\n•\tprzeciw silnikowi ustawionemu na 2300\r\n________________________________________",
+    "publish": "2026-01-10T18:42:31Z",
+    "created": "2026-01-10T18:43:07.939Z",
+    "updated": "2026-01-13T20:26:45.028Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "Nowy tytuł",
+    "slug": "inny-post",
+    "author": [
+      "marcin"
+    ],
+    "body": "Treść posta.",
+    "publish": "2026-01-11T15:23:19.771Z",
+    "created": "2026-01-11T15:23:29.784Z",
+    "updated": "2026-01-11T15:47:14.369Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "Jeszcze jeden post",
+    "slug": "jeszcze-jeden-post",
+    "author": [
+      "marcin"
+    ],
+    "body": "Treść posta.",
+    "publish": "2026-01-11T15:42:36.192Z",
+    "created": "2026-01-11T15:42:36.198Z",
+    "updated": "2026-01-11T15:42:36.198Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "1post",
+    "slug": "1post",
+    "author": [
+      "marcin"
+    ],
+    "body": "qwerty",
+    "publish": "2026-01-14T20:45:05Z",
+    "created": "2026-01-14T20:46:03.100Z",
+    "updated": "2026-01-14T20:46:03.100Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "2posrt",
+    "slug": "2posrt",
+    "author": [
+      "marcin"
+    ],
+    "body": "2post",
+    "publish": "2026-01-14T20:46:09Z",
+    "created": "2026-01-14T20:46:24.692Z",
+    "updated": "2026-01-14T20:46:24.692Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 8,
+  "fields": {
+    "title": "3post",
+    "slug": "3post",
+    "author": [
+      "marcin"
+    ],
+    "body": "3post",
+    "publish": "2026-01-14T20:46:30Z",
+    "created": "2026-01-14T20:46:49.127Z",
+    "updated": "2026-01-14T20:46:49.127Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 9,
+  "fields": {
+    "title": "This is a post formatted with markdown",
+    "slug": "this-is-a-post-formatted-with-markdown",
+    "author": [
+      "marcin"
+    ],
+    "body": "This is a post formatted with markdown\r\n--------------------------------------\r\n*This is emphasized* and **this is more emphasized**.\r\nHere is a list:\r\n* One\r\n* Two\r\n* Three\r\nAnd a [link to the Django website](https://www.djangoproject.com/).",
+    "publish": "2026-01-20T19:27:45Z",
+    "created": "2026-01-20T19:29:27.386Z",
+    "updated": "2026-01-20T19:29:33.052Z",
+    "status": "DF"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 8,
+    "name": "Marcin Pietr",
+    "email": "mpietr95@gmail.com",
+    "body": "looks good",
+    "created": "2026-01-17T19:52:55.951Z",
+    "updated": "2026-01-17T19:52:55.951Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 8,
+    "name": "Obrycki",
+    "email": "mpietr95@gmail.com",
+    "body": "feels good",
+    "created": "2026-01-17T19:53:24.612Z",
+    "updated": "2026-01-17T19:56:54.514Z",
+    "active": false
+  }
+}
+]

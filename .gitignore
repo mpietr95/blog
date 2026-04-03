@@ -1,0 +1,35 @@
+# Virtual environments
+my_env_old/
+my_env/
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Django
+*.sqlite3
+media/
+staticfiles/
+
+# Environment variables
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+.claude/
+.vs/
+
+# Node
+node_modules/
+
+# Build
+[Dd]ebug/
+[Rr]elease/
+[Oo]bj/
+[Bb]in/
